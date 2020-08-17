@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{330:function(n,o,a){__NEXT_REGISTER_PAGE("/allanavelar/blog-1",function(){return n.exports=a(7),{page:n.exports.default}})}},[[330,0,1]]]);

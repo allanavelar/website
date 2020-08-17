@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{549:function(e,n,a){__NEXT_REGISTER_PAGE("/allanavelar/interface/menuitems",function(){return e.exports=a(136),{page:e.exports.default}})}},[[549,0,1]]]);

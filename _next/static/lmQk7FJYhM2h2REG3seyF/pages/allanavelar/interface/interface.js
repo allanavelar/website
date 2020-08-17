@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[34],{546:function(e,n,a){__NEXT_REGISTER_PAGE("/allanavelar/interface/interface",function(){return e.exports=a(31),{page:e.exports.default}})}},[[546,0,1]]]);
