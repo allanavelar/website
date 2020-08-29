@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "com.allanavelar.site.twa",
+                   "sha256_cert_fingerprints": ["ED:EE:E2:EE:EA:A2:45:B4:DE:70:56:17:4E:CE:95:8B:F4:12:A8:EE:7F:20:76:66:70:76:BD:84:03:E4:7B:08"] }
+}]
