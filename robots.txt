@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /_next/
+Disallow: /static/
+
+Sitemap: http://site.allanavelar.com/sitemap.xml
